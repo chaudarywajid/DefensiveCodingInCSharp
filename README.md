@@ -1,4 +1,4 @@
-# DefensiveCodingInCSharp
+# How to Code Defensively in C#
 
 Welcome to the DefensiveCodingInCSharp repository! This repository contains the source code and resources related to my book, **How to Code Defensively in C#**, available on [Amazon](https://www.amazon.com/dp/B0DJFHNR6C).
 
@@ -21,5 +21,5 @@ Thank you for checking out the repository and my book! <br />
 
 Author <br />
 Wajid Khan <br />
-iAmWajidKhan.com <br />
-blog.iamwajidkhan.com
+[iAmWajidKhan.com](iAmWajidKhan.com) <br />
+[blog.iamwajidkhan.com](blog.iamwajidkhan.com)
