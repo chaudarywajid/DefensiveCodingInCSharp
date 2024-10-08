@@ -12,7 +12,7 @@ Repository Contains the source code examples project from the book.
 How to Use This Repository
 Clone the repository:
 
-git clone [https://github.com/yourusername/repository-name.git](https://github.com/chaudarywajid/DefensiveCodingInCSharp)
+git clone [https://github.com/chaudarywajid/DefensiveCodingInCSharp](https://github.com/chaudarywajid/DefensiveCodingInCSharp)
 
 Support <br />
 If you have any questions or run into issues, feel free to open an issue in this repository, or reach out to me through my [website](https://iamwajidkhan.com).
